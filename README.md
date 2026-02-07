@@ -64,7 +64,7 @@ source venv/bin/activate
 ---
 ### step 3 : Install dependencies
 ```
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 This installs:
 - psutil

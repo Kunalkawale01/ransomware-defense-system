@@ -44,7 +44,7 @@ This project is designed for **academic use, demonstrations, and learning system
 ### step 1️ : Clone the repository
 
 ```
-git clone https://github.com/Kunalkawale01/ransomware-defense-system.git
+File is too long so mail me if you want this project kunalkawale62@gmail.com
 cd ransomware-defense-system
 ```
 ---
